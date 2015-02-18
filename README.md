@@ -1,1 +1,1 @@
-# antbot-sensors
+# AntBot - sensors module
